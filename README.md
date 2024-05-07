@@ -1,6 +1,6 @@
 # challenge-ml
 
-![Foto challenge](./Resources/meli-ch.png)
+![Foto challenge](./resources/meli-ch.png)
 
 # Challenge - Analytics Engineer
 
